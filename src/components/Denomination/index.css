@@ -1,0 +1,12 @@
+h1{
+    color: #ffffffff;
+}
+.button{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color:  #585076;
+    color: #c4c4c4;
+    border: 1px solid  #c4c4c4;
+}
